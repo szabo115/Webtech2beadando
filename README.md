@@ -1,0 +1,2 @@
+Szabó Dániel
+ANGF2N
