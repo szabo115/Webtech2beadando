@@ -17,7 +17,7 @@
     "http": "0.0.0",
     "https": "^1.0.0",
     "mongodb": "^3.5.9",
-    "underscore": "^1.10.2"
+    "underscore": "^1.12.1"
   },
   "devDependencies": {
     "@types/cors": "^2.8.6",
